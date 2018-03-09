@@ -1,0 +1,3468 @@
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "E:\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 15, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "E:\AppAutomation\TestCase\ios\VideoPage.py", line 43, in Videopageinfo
+    iOSAppTestBase.tearDownClass()
+  File "E:\AppAutomation\TestCase\iosAppTest.py", line 23, in tearDownClass
+    self.driver.quit()
+AttributeError: class iOSAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "E:\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 15, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "E:\AppAutomation\TestCase\ios\VideoPage.py", line 43, in Videopageinfo
+    iOSAppTestBase.tearDownClass()
+  File "E:\AppAutomation\TestCase\iosAppTest.py", line 23, in tearDownClass
+    self.driver.quit()
+AttributeError: class iOSAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "E:\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 15, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "E:\AppAutomation\TestCase\ios\VideoPage.py", line 38, in Videopageinfo
+    driver.find_element_by_ios_uiautomation(newproject).click()
+  File "build\bdist.win32\egg\appium\webdriver\webdriver.py", line 88, in find_element_by_ios_uiautomation
+    return self.find_element(by=By.IOS_UIAUTOMATION, value=uia_string)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 712, in find_element
+    {'using': by, 'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 201, in execute
+    self.error_handler.check_response(response)
+  File "build\bdist.win32\egg\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+WebDriverException: Message: An error occurred while executing user supplied JavaScript.
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 15, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 43, in Videopageinfo
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 23, in tearDownClass
+    self.driver.quit()
+AttributeError: class iOSAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 15, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 43, in Videopageinfo
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 23, in tearDownClass
+    self.driver.quit()
+AttributeError: class iOSAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 15, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 38, in Videopageinfo
+    driver.find_element_by_ios_uiautomation(newproject).click()
+  File "build\bdist.win32\egg\appium\webdriver\webdriver.py", line 88, in find_element_by_ios_uiautomation
+    return self.find_element(by=By.IOS_UIAUTOMATION, value=uia_string)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 712, in find_element
+    {'using': by, 'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 201, in execute
+    self.error_handler.check_response(response)
+  File "build\bdist.win32\egg\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+WebDriverException: Message: An error occurred while executing user supplied JavaScript.
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 9, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 14, in test_add_contacts
+    driver.find_element_by_ios_uiautomation(newproject).click()
+  File "build\bdist.win32\egg\appium\webdriver\webdriver.py", line 88, in find_element_by_ios_uiautomation
+    return self.find_element(by=By.IOS_UIAUTOMATION, value=uia_string)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 712, in find_element
+    {'using': by, 'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 201, in execute
+    self.error_handler.check_response(response)
+  File "build\bdist.win32\egg\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+WebDriverException: Message: An error occurred while executing user supplied JavaScript.
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 12, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 26, in test_add_contacts1
+    driver.find_element_by_ios_uiautomation(newproject).click()
+  File "build\bdist.win32\egg\appium\webdriver\webdriver.py", line 88, in find_element_by_ios_uiautomation
+    return self.find_element(by=By.IOS_UIAUTOMATION, value=uia_string)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 712, in find_element
+    {'using': by, 'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 201, in execute
+    self.error_handler.check_response(response)
+  File "build\bdist.win32\egg\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+WebDriverException: Message: An error occurred while executing user supplied JavaScript.
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 15, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 38, in Videopageinfo
+    driver.find_element_by_ios_uiautomation(newproject).click()
+  File "build\bdist.win32\egg\appium\webdriver\webdriver.py", line 88, in find_element_by_ios_uiautomation
+    return self.find_element(by=By.IOS_UIAUTOMATION, value=uia_string)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 712, in find_element
+    {'using': by, 'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 201, in execute
+    self.error_handler.check_response(response)
+  File "build\bdist.win32\egg\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+WebDriverException: Message: An error occurred while executing user supplied JavaScript.
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 9, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 19, in test_add_contacts
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 23, in tearDownClass
+    self.driver.quit()
+AttributeError: class iOSAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 12, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 31, in test_add_contacts1
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 23, in tearDownClass
+    self.driver.quit()
+AttributeError: class iOSAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 15, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 43, in Videopageinfo
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 23, in tearDownClass
+    self.driver.quit()
+AttributeError: class iOSAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 9, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 19, in test_add_contacts
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 23, in tearDownClass
+    self.driver.quit()
+AttributeError: class iOSAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 12, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 31, in test_add_contacts1
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 23, in tearDownClass
+    self.driver.quit()
+AttributeError: class iOSAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 15, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 43, in Videopageinfo
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 23, in tearDownClass
+    self.driver.quit()
+AttributeError: class iOSAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 9, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 19, in test_add_contacts
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class iOSAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 12, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 31, in test_add_contacts1
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class iOSAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 15, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 43, in Videopageinfo
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class iOSAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 9, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 19, in test_add_contacts
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class iOSAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 12, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 31, in test_add_contacts1
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class iOSAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 15, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 43, in Videopageinfo
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class iOSAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 9, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 19, in test_add_contacts
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class iOSAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 12, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 31, in test_add_contacts1
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class iOSAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 15, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 43, in Videopageinfo
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class iOSAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 9, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 14, in test_add_contacts
+    driver.find_element_by_ios_uiautomation(newproject).click()
+  File "build\bdist.win32\egg\appium\webdriver\webdriver.py", line 88, in find_element_by_ios_uiautomation
+    return self.find_element(by=By.IOS_UIAUTOMATION, value=uia_string)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 712, in find_element
+    {'using': by, 'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 201, in execute
+    self.error_handler.check_response(response)
+  File "build\bdist.win32\egg\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+WebDriverException: Message: An error occurred while executing user supplied JavaScript.
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 12, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 26, in test_add_contacts1
+    driver.find_element_by_ios_uiautomation(newproject).click()
+  File "build\bdist.win32\egg\appium\webdriver\webdriver.py", line 88, in find_element_by_ios_uiautomation
+    return self.find_element(by=By.IOS_UIAUTOMATION, value=uia_string)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 712, in find_element
+    {'using': by, 'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 201, in execute
+    self.error_handler.check_response(response)
+  File "build\bdist.win32\egg\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+WebDriverException: Message: An error occurred while executing user supplied JavaScript.
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 15, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 38, in Videopageinfo
+    driver.find_element_by_ios_uiautomation(newproject).click()
+  File "build\bdist.win32\egg\appium\webdriver\webdriver.py", line 88, in find_element_by_ios_uiautomation
+    return self.find_element(by=By.IOS_UIAUTOMATION, value=uia_string)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 712, in find_element
+    {'using': by, 'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 201, in execute
+    self.error_handler.check_response(response)
+  File "build\bdist.win32\egg\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+WebDriverException: Message: An error occurred while executing user supplied JavaScript.
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 17, in test_create_newvideo
+    VideoPage.test_create_newvideo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 50, in test_create_newvideo
+    wd.quit()
+NameError: global name 'wd' is not defined
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 17, in test_create_newvideo
+    VideoPage.test_create_newvideo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 46, in test_create_newvideo
+    driver=iOSAppTestBase.setUpClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 20, in setUpClass
+    self.driver = webdriver.Remote('http://10.11.4.120:4723/wd/hub', desired_caps)
+  File "build\bdist.win32\egg\appium\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 87, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 141, in start_session
+    'desiredCapabilities': desired_capabilities,
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 201, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 181, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. (Original error: Requested a new session but one was in progress)
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 17, in test_create_newvideo
+    VideoPage.test_create_newvideo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 46, in test_create_newvideo
+    driver=iOSAppTestBase.setUpClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 20, in setUpClass
+    self.driver = webdriver.Remote('http://10.11.4.120:4723/wd/hub', desired_caps)
+  File "build\bdist.win32\egg\appium\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 87, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 141, in start_session
+    'desiredCapabilities': desired_capabilities,
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 201, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 181, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. (Original error: Requested a new session but one was in progress)
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 17, in test_create_newvideo
+    VideoPage.test_create_newvideo(self)
+AttributeError: 'module' object has no attribute 'test_create_newvideo'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 17, in test_create_newvideo
+    VideoPage.test_create_newvideo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 34, in test_create_newvideo
+    driver=iOSAppTestBase.setUpClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 20, in setUpClass
+    self.driver = webdriver.Remote('http://10.11.4.120:4723/wd/hub', desired_caps)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 87, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 141, in start_session
+    'desiredCapabilities': desired_capabilities,
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 201, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 181, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. (Original error: App did not have elements)
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 17, in test_create_newvideo
+    VideoPage.test_create_newvideo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 34, in test_create_newvideo
+    driver=iOSAppTestBase.setUpClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 20, in setUpClass
+    self.driver = webdriver.Remote('http://10.11.4.120:4723/wd/hub', desired_caps)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 87, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 141, in start_session
+    'desiredCapabilities': desired_capabilities,
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 201, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 181, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. (Original error: Requested a new session but one was in progress)
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 17, in test_create_newvideo
+    VideoPage.test_create_newvideo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 34, in test_create_newvideo
+    driver=iOSAppTestBase.setUpClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 20, in setUpClass
+    self.driver = webdriver.Remote('http://10.11.4.120:4723/wd/hub', desired_caps)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 87, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 141, in start_session
+    'desiredCapabilities': desired_capabilities,
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 201, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 181, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. (Original error: Requested a new session but one was in progress)
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 17, in test_create_newvideo
+    VideoPage.test_create_newvideo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 34, in test_create_newvideo
+    driver=iOSAppTestBase.setUpClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\iosAppTest.py", line 20, in setUpClass
+    self.driver = webdriver.Remote('http://10.11.4.120:4723/wd/hub', desired_caps)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 87, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 141, in start_session
+    'desiredCapabilities': desired_capabilities,
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 201, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 181, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. (Original error: Bad response from getTreeForXML. Err was undefined and res was undefined)
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 13, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 34, in test_login_wechat
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 13, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 31, in test_login_wechat
+    wd.context("WEBVIEW");
+TypeError: 'unicode' object is not callable
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 10, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 23, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 13, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 37, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 13, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 35, in test_login_wechat
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 13, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 35, in test_login_wechat
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 17, in test_login_qq
+    VideoPage.test_login_qq(self)
+AttributeError: 'module' object has no attribute 'test_login_qq'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 17, in test_login_qq
+    VideoPage.test_login_qq(self)
+AttributeError: 'module' object has no attribute 'test_login_qq'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 17, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 50, in test_login_qq
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 10, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 23, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 13, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 37, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 17, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 52, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 10, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 23, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 13, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 37, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 17, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 52, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 10, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 23, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 17, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 52, in test_login_qq
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 10, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 13, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 17, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 20, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 10, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 23, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 13, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 38, in test_login_wechat
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 17, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 53, in test_login_qq
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 20, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 73, in test_socialdiscuss_publishtopic
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 10, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 23, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 13, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 38, in test_login_wechat
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 17, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 53, in test_login_qq
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 20, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 73, in test_socialdiscuss_publishtopic
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 10, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 23, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 13, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 38, in test_login_wechat
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 17, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 53, in test_login_qq
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 10, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 13, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 17, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 20, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 23, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 93, in test_social_deletemyitem
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 10, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 23, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 13, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 38, in test_login_wechat
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 17, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 53, in test_login_qq
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 23, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 87, in test_social_deletemyitem
+    driver.swipe(230, 108, 150, 108,500)
+NameError: global name 'driver' is not defined
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 9, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 87, in test_social_deletemyitem
+    driver.swipe(230, 108, 150, 108,500)
+NameError: global name 'driver' is not defined
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 12, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 23, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 15, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 38, in test_login_wechat
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 28, in test_socialdiscuss_refreshlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 109, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 24, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 93, in test_social_deletemyitem
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 28, in test_socialdiscuss_refreshlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 109, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 24, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 93, in test_social_deletemyitem
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 483, in quit
+    self.execute(Command.QUIT)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 199, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 395, in execute
+    return self._request(command_info[0], url, body=data)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 463, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "E:\Python27\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Python27\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Python27\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Python27\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10061] >
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 483, in quit
+    self.execute(Command.QUIT)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 199, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 395, in execute
+    return self._request(command_info[0], url, body=data)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 463, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "E:\Python27\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Python27\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Python27\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Python27\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10061] >
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 28, in test_socialdiscuss_refreshlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 110, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 24, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 93, in test_social_deletemyitem
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 23, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 483, in quit
+    self.execute(Command.QUIT)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 199, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 395, in execute
+    return self._request(command_info[0], url, body=data)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 463, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "E:\Python27\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Python27\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Python27\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Python27\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10061] >
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 483, in quit
+    self.execute(Command.QUIT)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 199, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 395, in execute
+    return self._request(command_info[0], url, body=data)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 463, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "E:\Python27\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Python27\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Python27\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Python27\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10061] >
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 23, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 111, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 24, in test_socialdiscuss_refreshlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 111, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 30, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 93, in test_social_deletemyitem
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 111, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 24, in test_socialdiscuss_refreshlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 111, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 30, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 93, in test_social_deletemyitem
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 110, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 24, in test_socialdiscuss_refreshlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 110, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 30, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 93, in test_social_deletemyitem
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 110, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 24, in test_socialdiscuss_refreshlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 110, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 30, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 93, in test_social_deletemyitem
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 110, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 24, in test_socialdiscuss_refreshlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 110, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 30, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 93, in test_social_deletemyitem
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+AttributeError: 'module' object has no attribute 'test_socialdiscuss_refreshlist'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_loadlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 121, in test_socialdiscuss_loadlist
+    wd.swipe(180,350,180,180,300)
+  File "build\bdist.win32\egg\appium\webdriver\webdriver.py", line 241, in swipe
+    action.perform()
+  File "build\bdist.win32\egg\appium\webdriver\common\touch_action.py", line 94, in perform
+    self._driver.execute(Command.TOUCH_ACTION, params)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 201, in execute
+    self.error_handler.check_response(response)
+  File "build\bdist.win32\egg\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+WebDriverException: Message: An error occurred while executing user supplied JavaScript.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_loadlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 125, in test_socialdiscuss_loadlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 24, in test_socialdiscuss_refreshlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 110, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 30, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 93, in test_social_deletemyitem
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_loadlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 121, in test_socialdiscuss_loadlist
+    wd.swipe(180,350,180,180,300)
+  File "build\bdist.win32\egg\appium\webdriver\webdriver.py", line 241, in swipe
+    action.perform()
+  File "build\bdist.win32\egg\appium\webdriver\common\touch_action.py", line 94, in perform
+    self._driver.execute(Command.TOUCH_ACTION, params)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 201, in execute
+    self.error_handler.check_response(response)
+  File "build\bdist.win32\egg\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+WebDriverException: Message: An error occurred while executing user supplied JavaScript.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_loadlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 125, in test_socialdiscuss_loadlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 24, in test_socialdiscuss_refreshlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 110, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 30, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 93, in test_social_deletemyitem
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_loadlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 121, in test_socialdiscuss_loadlist
+    wd.swipe(180,550,180,280,300)
+  File "build\bdist.win32\egg\appium\webdriver\webdriver.py", line 241, in swipe
+    action.perform()
+  File "build\bdist.win32\egg\appium\webdriver\common\touch_action.py", line 94, in perform
+    self._driver.execute(Command.TOUCH_ACTION, params)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 201, in execute
+    self.error_handler.check_response(response)
+  File "build\bdist.win32\egg\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+WebDriverException: Message: An error occurred while executing user supplied JavaScript.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_loadlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 121, in test_socialdiscuss_loadlist
+    wd.scroll(180,550,180,280,300)
+TypeError: scroll() takes exactly 3 arguments (6 given)
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_loadlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 130, in test_socialdiscuss_loadlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_loadlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 121, in test_socialdiscuss_loadlist
+    wd.flick(180,550,180,280,300)
+TypeError: flick() takes exactly 5 arguments (6 given)
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_loadlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 130, in test_socialdiscuss_loadlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 24, in test_socialdiscuss_refreshlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 110, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 30, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 93, in test_social_deletemyitem
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_loadlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 121, in test_socialdiscuss_loadlist
+    wd.flick(180,550,180,280,)
+  File "build\bdist.win32\egg\appium\webdriver\webdriver.py", line 262, in flick
+    action.perform()
+  File "build\bdist.win32\egg\appium\webdriver\common\touch_action.py", line 94, in perform
+    self._driver.execute(Command.TOUCH_ACTION, params)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 201, in execute
+    self.error_handler.check_response(response)
+  File "build\bdist.win32\egg\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+WebDriverException: Message: An error occurred while executing user supplied JavaScript.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_loadlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 126, in test_socialdiscuss_loadlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 24, in test_socialdiscuss_refreshlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 110, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 30, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 93, in test_social_deletemyitem
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_loadlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 137, in test_socialdiscuss_loadlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 24, in test_socialdiscuss_refreshlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 110, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 30, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 93, in test_social_deletemyitem
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_loadlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 121, in test_socialdiscuss_loadlist
+    wd.swipe(200,760,200,230)
+  File "build\bdist.win32\egg\appium\webdriver\webdriver.py", line 241, in swipe
+    action.perform()
+  File "build\bdist.win32\egg\appium\webdriver\common\touch_action.py", line 94, in perform
+    self._driver.execute(Command.TOUCH_ACTION, params)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 201, in execute
+    self.error_handler.check_response(response)
+  File "build\bdist.win32\egg\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+WebDriverException: Message: An error occurred while executing user supplied JavaScript.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 30, in test_social_refresh
+    VideoPage.test_social_refresh(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 178, in test_social_refresh
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 24, in test_socialdiscuss_refreshlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 110, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_loadlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 146, in test_socialdiscuss_loadlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 33, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 93, in test_social_deletemyitem
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 23, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 38, in test_login_wechat
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 483, in quit
+    self.execute(Command.QUIT)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 199, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 395, in execute
+    return self._request(command_info[0], url, body=data)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 463, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "E:\Python27\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Python27\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Python27\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Python27\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10061] >
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 483, in quit
+    self.execute(Command.QUIT)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 199, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 395, in execute
+    return self._request(command_info[0], url, body=data)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 463, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "E:\Python27\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Python27\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Python27\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Python27\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10061] >
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 24, in test_socialdiscuss_refreshlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 110, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 483, in quit
+    self.execute(Command.QUIT)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 199, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 395, in execute
+    return self._request(command_info[0], url, body=data)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 463, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "E:\Python27\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Python27\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Python27\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Python27\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10061] >
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_loadlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 146, in test_socialdiscuss_loadlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 483, in quit
+    self.execute(Command.QUIT)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 199, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 395, in execute
+    return self._request(command_info[0], url, body=data)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 463, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "E:\Python27\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Python27\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Python27\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Python27\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10061] >
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 33, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 93, in test_social_deletemyitem
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 483, in quit
+    self.execute(Command.QUIT)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 199, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 395, in execute
+    return self._request(command_info[0], url, body=data)
+  File "E:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 463, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "E:\Python27\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Python27\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Python27\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Python27\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10061] >
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 23, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 38, in test_login_wechat
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 53, in test_login_qq
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 23, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 38, in test_login_wechat
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 53, in test_login_qq
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 23, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 38, in test_login_wechat
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 53, in test_login_qq
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 23, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 38, in test_login_wechat
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 53, in test_login_qq
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 23, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 38, in test_login_wechat
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 53, in test_login_qq
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 23, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 38, in test_login_wechat
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 53, in test_login_qq
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 30, in test_social_refresh
+    VideoPage.test_social_refresh(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 179, in test_social_refresh
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 24, in test_socialdiscuss_refreshlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 111, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 30, in test_social_refresh
+    VideoPage.test_social_refresh(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 179, in test_social_refresh
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 24, in test_socialdiscuss_refreshlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 111, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_loadlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 147, in test_socialdiscuss_loadlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 33, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 94, in test_social_deletemyitem
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 23, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 30, in test_social_refresh
+    VideoPage.test_social_refresh(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 179, in test_social_refresh
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 24, in test_socialdiscuss_refreshlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 111, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_loadlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 147, in test_socialdiscuss_loadlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 33, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 94, in test_social_deletemyitem
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 30, in test_social_refresh
+    VideoPage.test_social_refresh(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 179, in test_social_refresh
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 75, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 24, in test_socialdiscuss_refreshlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 111, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_loadlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 147, in test_socialdiscuss_loadlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 33, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 94, in test_social_deletemyitem
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 38, in test_login_wechat
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 53, in test_login_qq
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 30, in test_social_refresh
+    VideoPage.test_social_refresh(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 228, in test_social_refresh
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 23, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 38, in test_login_wechat
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 53, in test_login_qq
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 33, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 141, in test_social_deletemyitem
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 30, in test_social_refresh
+    VideoPage.test_social_refresh(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 208, in test_social_refresh
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 40, in test_login_wechat
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 55, in test_login_qq
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 103, in test_socialdiscuss_publishtopic
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 24, in test_socialdiscuss_refreshlist
+    VideoPage.test_socialdiscuss_refreshlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 140, in test_socialdiscuss_refreshlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 27, in test_socialdiscuss_loadlist
+    VideoPage.test_socialdiscuss_loadlist(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 176, in test_socialdiscuss_loadlist
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\AppTestCaseCollection.py", line 33, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\ios\VideoPage.py", line 123, in test_social_deletemyitem
+    iOSAppTestBase.tearDownClass()
+  File "C:\Users\Administrator\Desktop\AppAutomation\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 25, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "F:\AppAutomation0\TestCase\iosAppTest.py", line 27, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 24, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 39, in test_login_wechat
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 54, in test_login_qq
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 101, in test_socialdiscuss_publishtopic
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 33, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 121, in test_social_deletemyitem
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 24, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 39, in test_login_wechat
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 54, in test_login_qq
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 101, in test_socialdiscuss_publishtopic
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 33, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 121, in test_social_deletemyitem
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 24, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 14, in test_login_wechat
+    VideoPage.test_login_wechat(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 39, in test_login_wechat
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 18, in test_login_qq
+    VideoPage.test_login_qq(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 54, in test_login_qq
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 101, in test_socialdiscuss_publishtopic
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 33, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 121, in test_social_deletemyitem
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 104, in test_socialdiscuss_publishtopic
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 33, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 124, in test_social_deletemyitem
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 104, in test_socialdiscuss_publishtopic
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 104, in test_socialdiscuss_publishtopic
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "E:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "F:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 33, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "F:\AppAutomation0\TestCase\ios\VideoPage.py", line 124, in test_social_deletemyitem
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "D:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "E:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "E:\AppAutomation0\TestCase\ios\VideoPage.py", line 24, in test_login
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "D:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "E:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "E:\AppAutomation0\TestCase\ios\VideoPage.py", line 104, in test_socialdiscuss_publishtopic
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "D:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "E:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 33, in test_social_deletemyitem
+    VideoPage.test_social_deletemyitem(self)
+  File "E:\AppAutomation0\TestCase\ios\VideoPage.py", line 124, in test_social_deletemyitem
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "D:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "E:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 11, in test_login
+    VideoPage.test_login(self)
+  File "E:\AppAutomation0\TestCase\ios\VideoPage.py", line 26, in test_login
+    iOSAppTestBase.tearDownClass()
+  File "E:\AppAutomation0\TestCase\iosAppTest.py", line 25, in tearDownClass
+    self.wd.quit()
+AttributeError: class iOSAppTestBase has no attribute 'wd'
+
+Traceback (most recent call last):
+  File "D:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "E:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 30, in test_social_refresh
+    VideoPage.test_social_refresh(self)
+  File "E:\AppAutomation0\TestCase\ios\VideoPage.py", line 208, in test_social_refresh
+    iOSAppTestBase.tearDownClass()
+  File "E:\AppAutomation0\TestCase\iosAppTest.py", line 25, in tearDownClass
+    self.wd.quit()
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 515, in quit
+    self.execute(Command.QUIT)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 233, in execute
+    self.error_handler.check_response(response)
+  File "build\bdist.win32\egg\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+WebDriverException: Message: 
+
+
+Traceback (most recent call last):
+  File "D:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "E:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "E:\AppAutomation0\TestCase\ios\VideoPage.py", line 104, in test_socialdiscuss_publishtopic
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "D:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "E:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "E:\AppAutomation0\TestCase\ios\VideoPage.py", line 104, in test_socialdiscuss_publishtopic
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "D:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "E:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "E:\AppAutomation0\TestCase\ios\VideoPage.py", line 104, in test_socialdiscuss_publishtopic
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "D:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "E:\AppAutomation0\TestCase\ios\AppTestCaseCollection.py", line 21, in test_socialdiscuss_publishtopic
+    VideoPage.test_socialdiscuss_publishtopic(self)
+  File "E:\AppAutomation0\TestCase\ios\VideoPage.py", line 104, in test_socialdiscuss_publishtopic
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+

@@ -1,0 +1,522 @@
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 11, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 21, in test_add_contacts
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 14, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 33, in test_add_contacts1
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 17, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 45, in Videopageinfo
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 11, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 21, in test_add_contacts
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 14, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 33, in test_add_contacts1
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 17, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 45, in Videopageinfo
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 11, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 21, in test_add_contacts
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 14, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 33, in test_add_contacts1
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 17, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 45, in Videopageinfo
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 11, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 21, in test_add_contacts
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 14, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 33, in test_add_contacts1
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 17, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 45, in Videopageinfo
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 11, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 21, in test_add_contacts
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 14, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 33, in test_add_contacts1
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 17, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 45, in Videopageinfo
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 17, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 45, in Videopageinfo
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 17, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 45, in Videopageinfo
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 17, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 45, in Videopageinfo
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 17, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 45, in Videopageinfo
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 17, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 45, in Videopageinfo
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 17, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 45, in Videopageinfo
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 17, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 45, in Videopageinfo
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 11, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 21, in test_add_contacts
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 14, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 33, in test_add_contacts1
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 17, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 45, in Videopageinfo
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 11, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 21, in test_add_contacts
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 14, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 33, in test_add_contacts1
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 17, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 45, in Videopageinfo
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 11, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 21, in test_add_contacts
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 14, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 33, in test_add_contacts1
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 17, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 45, in Videopageinfo
+    driver.quit()
+UnboundLocalError: local variable 'driver' referenced before assignment
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 11, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 21, in test_add_contacts
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 14, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 33, in test_add_contacts1
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 17, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 45, in Videopageinfo
+    driver.quit()
+UnboundLocalError: local variable 'driver' referenced before assignment
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 11, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 18, in test_add_contacts
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 14, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 30, in test_add_contacts1
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 17, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 42, in Videopageinfo
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 11, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 20, in test_add_contacts
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 14, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 32, in test_add_contacts1
+    AndroidAppTestBase.tearDownClass()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 17, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 44, in Videopageinfo
+    driver.quit()
+UnboundLocalError: local variable 'driver' referenced before assignment
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:/Users/yang/Desktop/AppAutomation/TestCase/android\AppTestCaseCollection.py", line 11, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "C:/Users/yang/Desktop/AppAutomation/TestCase/android\VideoPage.py", line 18, in test_add_contacts
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:/Users/yang/Desktop/AppAutomation/TestCase/android\AppTestCaseCollection.py", line 14, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "C:/Users/yang/Desktop/AppAutomation/TestCase/android\VideoPage.py", line 30, in test_add_contacts1
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:/Users/yang/Desktop/AppAutomation/TestCase/android\AppTestCaseCollection.py", line 17, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:/Users/yang/Desktop/AppAutomation/TestCase/android\VideoPage.py", line 42, in Videopageinfo
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 11, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 18, in test_add_contacts
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 14, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 30, in test_add_contacts1
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\AppTestCaseCollection.py", line 17, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "C:\Users\yang\Desktop\AppAutomation\TestCase\android\VideoPage.py", line 42, in Videopageinfo
+    raise e
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+
+Traceback (most recent call last):
+  File "D:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "E:\AppAutomation0\TestCase\android\AppTestCaseCollection.py", line 11, in test_add_contacts
+    VideoPage.test_add_contacts(self)
+  File "E:\AppAutomation0\TestCase\android\VideoPage.py", line 21, in test_add_contacts
+    AndroidAppTestBase.tearDownClass()
+  File "E:\AppAutomation0\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "D:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "E:\AppAutomation0\TestCase\android\AppTestCaseCollection.py", line 14, in test_add_contacts1
+    VideoPage.test_add_contacts1(self)
+  File "E:\AppAutomation0\TestCase\android\VideoPage.py", line 33, in test_add_contacts1
+    AndroidAppTestBase.tearDownClass()
+  File "E:\AppAutomation0\TestCase\AndroidAppTest.py", line 25, in tearDownClass
+    self.driver.quit()
+AttributeError: class AndroidAppTestBase has no attribute 'driver'
+
+Traceback (most recent call last):
+  File "D:\Python27\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "E:\AppAutomation0\TestCase\android\AppTestCaseCollection.py", line 21, in Videopageinfo
+    VideoPage.Videopageinfo(self)
+  File "E:\AppAutomation0\TestCase\android\VideoPage.py", line 45, in Videopageinfo
+    driver.quit()
+UnboundLocalError: local variable 'driver' referenced before assignment
+
